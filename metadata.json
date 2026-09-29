@@ -1,0 +1,6 @@
+{
+  "name": "Trình Dịch Thuật SMT",
+  "description": "Ứng dụng phiên dịch chuyên dụng giữa tiếng Trung và tiếng Việt cho sản xuất điện tử dán bề mặt (SMT). Hỗ trợ dịch văn bản, hình ảnh, và giọng nói.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

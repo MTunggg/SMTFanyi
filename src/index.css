@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark, .dark *));
+
+.output-container {
+  height: auto !important;
+  max-height: none !important;
+  min-height: 120px;
+  padding: 20px 20px 40px 20px !important;
+  overflow: visible !important;
+}
